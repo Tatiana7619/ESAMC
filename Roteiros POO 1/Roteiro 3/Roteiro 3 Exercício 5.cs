@@ -1,9 +1,7 @@
-﻿using System.ComponentModel.Design;
-
-class ContaBancaria
+﻿class ContaBancaria
 {
-    public string Titular { get; private set; }
-    private decimal saldo;
+    public string Titular { get; set; }
+    public decimal saldo{get; private set;}
     public ContaBancaria(string Titular)
     {
         if (string.IsNullOrWhiteSpace(Titular))
@@ -14,17 +12,6 @@ class ContaBancaria
         saldo = 0;
     }
 
-    public decimal Saldo
-    {
-        get
-        {
-            return saldo;
-        }
-        set { 
-            throw new ArgumentException("Não é possível alterar diretamente o saldo da conta. Use os métodos Depositar e Sacar para modificar o Saldo.");
-        }
-     
-    }
     public void Depositar (decimal valor)
     {
         if (valor <= 0)
@@ -46,7 +33,7 @@ class ContaBancaria
         }
         else if(valor > saldo)
         {
-            Console.WriteLine ("Saldo insuficiente para realizar o saque.");
+            Console.WriteLine("Saldo insuficiente para realizar o saque.");
 
         }
         else
@@ -68,7 +55,7 @@ class Program
             conta.Sacar(250);
             Console.WriteLine(conta.Saldo);
 
-            conta.Saldo = -5000;
+            //conta.Saldo = -5000;
         }
         catch (ArgumentException ex)
         {
