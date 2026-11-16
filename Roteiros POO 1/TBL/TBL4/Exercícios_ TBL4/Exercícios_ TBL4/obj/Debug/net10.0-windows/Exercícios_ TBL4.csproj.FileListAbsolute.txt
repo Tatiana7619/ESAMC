@@ -1,0 +1,22 @@
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\bin\Debug\net10.0-windows\Exercícios_ TBL4.exe
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\bin\Debug\net10.0-windows\Exercícios_ TBL4.deps.json
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\bin\Debug\net10.0-windows\Exercícios_ TBL4.runtimeconfig.json
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\bin\Debug\net10.0-windows\Exercícios_ TBL4.dll
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\bin\Debug\net10.0-windows\Exercícios_ TBL4.pdb
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios__TBL4.Form1.resources
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios__TBL4.Form2.resources
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios__TBL4.Properties.Resources.resources
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.csproj.GenerateResource.cache
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.AssemblyInfo.cs
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.dll
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\refint\Exercícios_ TBL4.dll
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.pdb
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios_ TBL4.genruntimeconfig.cache
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\ref\Exercícios_ TBL4.dll
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exerc_ci.156FCAE6.Up2Date
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios__TBL4.Form3.resources
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios__TBL4.Form4.resources
+D:\Users\User\Desktop\Tatiana Esamc\POO\TBL\Exercícios_ TBL4\Exercícios_ TBL4\obj\Debug\net10.0-windows\Exercícios__TBL4.Form5.resources
